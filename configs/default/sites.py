@@ -1,8 +1,8 @@
 # 网站域名设置（请正确填写，不然订阅功能会失效：
-HOST = "http://127.0.0.1:8000"
+HOST = "http://yangkun.moneyfly.club"
 
 # 网站密钥
-SECRET_KEY = "aasdasdas"
+SECRET_KEY = "120423mm"
 
 # 是否开启注册
 ALLOW_REGISTER = True
@@ -41,7 +41,7 @@ INVITEINFO = "邀请码实时更新，如果用完了就没了"
 
 
 # 部分API接口TOKEN
-TOKEN = "youowntoken"
+TOKEN = "moneyfly"
 
 # 是否开启用户到期邮件通知
 EXPIRE_EMAIL_NOTICE = False
